@@ -10,6 +10,6 @@ Please check the guide before proceeding to blindly push these on your radio as 
 
 Do note also that the use of these radios requires a license in most countries especially if you intend to transmit. Check your local radio laws and don't blame me. 
 
-Suomessa nämä radiot vaativat radioluvan, jonka myöntää Viestintävirasto. [Suomen Radioamatööriliitto SRAL](https://sral.info/) ja sen jäsenyhdistykset tarjoavat kursseja radioluvan suorittamiseksi. Perusluokan lupaa varten pitää suorittaa kaksi koetta, joista K-moduulissa varmistetaan tieto Suomen lainsäädännöstä ja yleisiä radioamatöörikäytäntöjä ja T1-moduulissa perustason sähkö- ja radiotekniikan osaamista. 
+Suomessa nämä radiot vaativat radioluvan, jonka myöntää Liikenne- ja Viestintävirasto Traficom. [Suomen Radioamatööriliitto SRAL](https://sral.info/) ja sen jäsenyhdistykset tarjoavat kursseja radioluvan suorittamiseksi. Perusluokan lupaa varten pitää suorittaa kaksi koetta, joista K-moduulissa varmistetaan tieto Suomen lainsäädännöstä ja yleisiä radioamatöörikäytäntöjä ja T1-moduulissa perustason sähkö- ja radiotekniikan osaamista. 
 
 [Lahden radioamatöörikerholla](http://www.oh3ac.fi/kurssimateriaali.html) on hyvä paketti K-ja T1-moduulien opettelemiseen.
